@@ -3,10 +3,10 @@ import random
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = os.environ.get("8946434748:AAG7bEF5LrYOPZ2digjA40bTZhvnFOR1ZoY")
+TOKEN = os.environ.get("8946434748:AAHamIhcY2vKlz11p2Da8Dd_UPzmx3okgik")
 
 if not TOKEN:
-    print("8946434748:AAG7bEF5LrYOPZ2digjA40bTZhvnFOR1ZoY")
+    print("8946434748:AAHamIhcY2vKlz11p2Da8Dd_UPzmx3okgikbE")
     exit(1)
 
 JOKES = [
