@@ -27,4 +27,5 @@ app.add_handler(CommandHandler("start", start))
 app.add_handler(CommandHandler("joke", joke))
 
 print("Bot চালু হইছে বস...")
-app.run_polling()mport
+app.run_polling()
+import
