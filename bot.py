@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 TOKEN = os.environ.get("8946434748:AAG7bEF5LrYOPZ2digjA40bTZhvnFOR1ZoY")
 
 if not TOKEN:
-    print("বস ERROR: TOKEN পাই নাই!")
+    print("8946434748:AAG7bEF5LrYOPZ2digjA40bTZhvnFOR1ZoY")
     exit(1)
 
 JOKES = [
