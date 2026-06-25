@@ -28,4 +28,3 @@ app.add_handler(CommandHandler("joke", joke))
 
 print("Bot চালু হইছে বস...")
 app.run_polling()
-import
